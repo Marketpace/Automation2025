@@ -1,1 +1,5 @@
-print("Привіт")
+print("Привіт як справи")
+
+print("Hello")
+
+print("Hi")
