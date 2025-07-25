@@ -6,3 +6,6 @@ print("Hi")
 
 
 zminna = 5
+
+
+P = 9
