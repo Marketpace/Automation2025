@@ -5,7 +5,8 @@ print("Hello")
 print("Hi")
 
 
-zminna = 5
+zminna = 55
+
 
 
 
