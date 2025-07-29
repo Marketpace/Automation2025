@@ -2,7 +2,7 @@ print("Привіт як справи")
 
 print("Hello")
 
-print("Hiii")
+print("Hiiiі")
 
 
 zminna = 5
