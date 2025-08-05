@@ -2,4 +2,4 @@ print("ddd")
 
 
 звзвззааа
-d
+dddd
